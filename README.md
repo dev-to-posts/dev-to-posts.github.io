@@ -17,10 +17,12 @@ source: https://github.com/dev-to-posts/dev-to-posts.github.io
 ### Listing your articles on a DEV.to page
 
 * Create a JSFiddle with the above code
-* add Liquid code to your page:
+* add Liquid code,with your own JSFiddle URI, to your page:
+{% raw %}
     <code>
-    {\% jsfiddle https://jsfiddle.net/YOUR-URI result %}
+    {% jsfiddle https://jsfiddle.net/YOUR-URI result %}
     </code>
+{% endraw %}
 
 ### LICENSE
 

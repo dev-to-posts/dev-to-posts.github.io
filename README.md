@@ -1,6 +1,6 @@
 # Web Component listing all user DEV.to posts
 
-This Web Components uses the DEV.to API to fetch all user posts.
+This Web Component uses the DEV.to API to fetch and display all user post titles.
 
 source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
 

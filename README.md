@@ -7,7 +7,7 @@ source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
 ## Load & define Web Component ``<dev-to-posts>``
 
 ```
-<script src="https://dev-posts.github.io/element.js"></script>
+<script src="https://dev-to-posts.github.io/element.js"></script>
 ```
 
 * it does **not** matter _when_ or _how_ you load the component, all existing and new tags will automagically upgrade.

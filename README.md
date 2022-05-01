@@ -1,5 +1,7 @@
 # Web Component listing all user DEV.to posts
 
+This Web Components uses the DEV.to API to fetch all user posts.
+
 source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
 
 ## Load & define Web Component ``<dev-to-posts>``

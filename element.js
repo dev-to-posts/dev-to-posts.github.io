@@ -11,7 +11,7 @@ async connectedCallback(
         `<b>${user} DEV.to posts:</b>` +
             (json.map(
             ({title, readable_publish_date, url, public_reactions_count}) => (
-                `<div style="display:grid;grid:1fr/60px 60px 1fr">` +
+                `<div style="display:grid;grid:1fr/80px 50px 1fr">` +
                   `<span>${readable_publish_date}</span>`+
                   `<span>⭐ ${public_reactions_count}</span>` +
                   `<a href="${url}" target="_blank">${title.split("(")[0]}</a>` +

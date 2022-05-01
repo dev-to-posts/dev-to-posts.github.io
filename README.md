@@ -23,6 +23,7 @@ source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
 * Create a JSFiddle with the above code
 * add Liquid code, with your own JSFiddle URI, to your DEV.to page:
 {% raw %}
+output:
     <code>
     {% jsfiddle https://jsfiddle.net/YOUR-URI result,html %}
     </code>
@@ -35,6 +36,7 @@ source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
 
     * [Using the DEV.to API](https://dev.to/tmchuynh/get-devto-articles-using-dev-api-4oag
     )
+
 ## All Web Component ``<dev-to-posts>`` source code in [element.js](https://github.com/dev-to-posts/dev-to-posts.github.io/blob/main/element.js)
 
 ```javascript

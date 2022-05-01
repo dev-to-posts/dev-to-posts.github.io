@@ -18,7 +18,7 @@ source: https://github.com/dev-to-posts/dev-to-posts.github.io
 
 * Create a JSFiddle with the above code
 * add Liquid code to your page:
-    ```
+    ```html
     {% jsfiddle https://jsfiddle.net/YOUR-URI result %}
     ```
 

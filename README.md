@@ -24,10 +24,12 @@ source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
 * add Liquid code, with your own JSFiddle URI, to your DEV.to page:
 {% raw %}
     <code>
-    {% jsfiddle https://jsfiddle.net/YOUR-URI result %}
+    {% jsfiddle https://jsfiddle.net/YOUR-URI result,html %}
     </code>
 {% endraw %}
 * For all options, see: [DEV.to & Liquid JSFiddle](https://dev.to/link2twenty/changelog-jsfiddle-liquid-tags-now-live-1d1b)
+
+   ![](https://i.imgur.com/llLGPZi.png)
 
 ## All Web Component ``<dev-to-posts>`` source code in [element.js](https://github.com/dev-to-posts/dev-to-posts.github.io/blob/main/element.js)
 

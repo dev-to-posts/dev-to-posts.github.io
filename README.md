@@ -2,7 +2,9 @@
 
 This Web Component uses the DEV.to API to fetch and display all user post titles.
 
-source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
+* [github source](https://github.com/dev-to-posts/dev-to-posts.github.io)
+
+* [example JSFiddle](https://jsfiddle.net/WebComponents/ezpqhj69/)
 
 ## Load & define Web Component ``<dev-to-posts>``
 

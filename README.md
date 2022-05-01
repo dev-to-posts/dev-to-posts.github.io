@@ -18,7 +18,7 @@ source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
 <dev-to-posts name="YOUR-USERNAME"></dev-to-posts>
 ```
 
-## Listing your articles on a DEV.to page
+## Listing your articles at the bottom of all your DEV.to pages
 
 * Create a JSFiddle with the above code
 * add Liquid code, with your own JSFiddle URI, to your DEV.to page:

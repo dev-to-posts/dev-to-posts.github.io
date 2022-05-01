@@ -27,10 +27,14 @@ source: [github](https://github.com/dev-to-posts/dev-to-posts.github.io)
     {% jsfiddle https://jsfiddle.net/YOUR-URI result,html %}
     </code>
 {% endraw %}
-* For all options, see: [DEV.to & Liquid JSFiddle](https://dev.to/link2twenty/changelog-jsfiddle-liquid-tags-now-live-1d1b)
 
    ![](https://i.imgur.com/llLGPZi.png)
 
+* more:
+    * [DEV.to & Liquid JSFiddle options](https://dev.to/link2twenty/changelog-jsfiddle-liquid-tags-now-live-1d1b)
+
+    * [Using the DEV.to API](https://dev.to/tmchuynh/get-devto-articles-using-dev-api-4oag
+    )
 ## All Web Component ``<dev-to-posts>`` source code in [element.js](https://github.com/dev-to-posts/dev-to-posts.github.io/blob/main/element.js)
 
 ```javascript

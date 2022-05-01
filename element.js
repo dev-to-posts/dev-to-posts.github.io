@@ -12,9 +12,9 @@ async connectedCallback(
             (json.map(
             ({title, readable_publish_date, url, public_reactions_count}) => (
                 `<div style="display:grid;grid:1fr/60px 60px 1fr">` +
-                `<span>${readable_publish_date}</span>`+
-                `<span>⭐ ${public_reactions_count}</span>` +
-                `<a href="${url}" target="_blank">${title.split("(")[0]}</a>` +
+                  `<span>${readable_publish_date}</span>`+
+                  `<span>⭐ ${public_reactions_count}</span>` +
+                  `<a href="${url}" target="_blank">${title.split("(")[0]}</a>` +
                 `</div>`
             )).join``) + 
         "</div>";
